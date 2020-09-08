@@ -5,6 +5,7 @@
 插件管理:
 
 ```bash
+mkdir -p ~/.tmux/plugins/tpm
 proxychains git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
